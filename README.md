@@ -1,5 +1,3 @@
-Sure, here's the updated version of the README with some emojis:
-
 ## 📈 Telegram Investment Bot 🤖💰
 
 Welcome to the Telegram Investment Bot repository! This bot is designed to accept money from users and invest it on their behalf, providing them with a good profit. The program operates on the TRC20 USDT network, ensuring secure and efficient transactions. 💸🚀
